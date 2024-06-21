@@ -1,0 +1,19 @@
+/* src/Chat.css */
+.chat-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+  }
+  
+  .chat-space {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 60vh;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
